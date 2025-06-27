@@ -3,7 +3,7 @@
 To conduct a comprehensive analysis of Blinkit Sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPI’s and visualizations in Excel.
 
 # Data Set Used
-<a href="" </a>
+<a href="https://github.com/Dhrisya94/Excel-Data-Analyst-Project/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx">Dataset </a>
 
 # KPI Requirements
 
